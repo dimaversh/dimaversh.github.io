@@ -39,7 +39,7 @@ body
 .intro-wrapper
 {
  
-  background-image: url(/img/main-bg.png);
+  background-image: url(img/main-bg.png);
   background-size: cover;
   height: 160vh;
 }
@@ -149,7 +149,7 @@ body
 }
 .link-more-products::after
 {
-  content: url(/img/double-angle-pointing-to-right.png);
+  content: url(img/double-angle-pointing-to-right.png);
   padding: 5px;
 }
 .link-more-products:hover {
@@ -256,36 +256,6 @@ body
  margin-top: 25px;
 }
 
-/* footer
-{
-  background: #30292F;
-  color: #fff;
-}
-.footer-wrapper
-{
-display: flex;
-flex-direction: column;
-}
-
-.footer-nav
-{
-  display: flex;
-  flex-direction: row;
-  padding: 10px;
-
-}
-.email-form
-{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  max-width: 1202px;
-  margin: 0 auto;
-}
-
-.line { 
-  border-bottom: 1px solid #ccc;
- } */
  .footer {
   background-color: #30292F;
 }
